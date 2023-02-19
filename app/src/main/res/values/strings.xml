@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="word">Word</string>
+    <string name="search_bar">Search Bar</string>
+    <string name="empty_list">Empty List</string>
+    <string name="delete_word">Delete Word</string>
+    <string name="logo">Logo</string>
+</resources>
